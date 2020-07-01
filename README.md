@@ -8,3 +8,7 @@
 # 2. Implemented image blending using image pyramid methods
 
 - Gaussian / Laplacian Pyramid
+
+
+# 3. Exposure fusion using a weight map 
+
