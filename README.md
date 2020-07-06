@@ -15,4 +15,4 @@ This notebook implements exposure fusion, which was introduced by Merten et al. 
 
 There are serveral steps in the Merten's paper, but they are just embedded in the openCV functions. So I will go over each step in the following post. 
 
-![alt text](https://github.com/gimoonnam/ImageProcessing/blob/master/images/saintLouis_tower.png)
+![alt text](https://github.com/gimoonnam/ImageProcessing/blob/master/images/house.png)
