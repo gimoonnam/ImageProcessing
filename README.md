@@ -1,13 +1,13 @@
-# 1. Explored 4 types of image blurring methods
+# Basic techniques on image processing 
+##  1. Explored 4 types of image blurring methods
+      1. Average 
+      2. Median 
+      3. Gaussian 
+      4. Bilateral filter 
 
-1. Average 
-2. Median 
-3. Gaussian 
-4. Bilateral filter 
-
-# 2. Implemented image blending using image pyramid methods
-
-- Gaussian / Laplacian Pyramid
+## 2. Implemented image blending using image pyramid methods
+      - Gaussian Pyramid
+      - Laplacian Pyramid
 
 
 # mergeMertens using openCV built-in functons 
