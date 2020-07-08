@@ -10,10 +10,11 @@
       - Laplacian Pyramid
 
 
-# mergeMertens using openCV built-in functons 
-This notebook implements exposure fusion, which was introduced by Merten et al. This implementation was done based on openCV's instruction, which is well guided. 
-
+# mergeMertens in python with openCV 
+This notebook implements exposure fusion, which was introduced by Merten et al. 
 
 This picture shows the result of my implemention on exposure fusion. 
+
 For details, pleaes check **mergeMertens_fromScratches.ipynb**
+
 ![alt text](https://github.com/gimoonnam/ImageProcessing/blob/master/images/mergeMertens.png)
