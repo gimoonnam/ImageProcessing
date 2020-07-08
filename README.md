@@ -13,6 +13,7 @@
 # mergeMertens using openCV built-in functons 
 This notebook implements exposure fusion, which was introduced by Merten et al. This implementation was done based on openCV's instruction, which is well guided. 
 
-There are serveral steps in the Merten's paper, but they are just embedded in the openCV functions. So I will go over each step in the following post. 
 
+This picture shows the result of my implemention on exposure fusion. 
+For details, pleaes check **mergeMertens_fromScratches.ipynb**
 ![alt text](https://github.com/gimoonnam/ImageProcessing/blob/master/images/mergeMertens.png)
