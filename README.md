@@ -10,7 +10,7 @@
 - Gaussian / Laplacian Pyramid
 
 
-# 3. Exposure fusion using openCV librarys
+# mergeMertens using openCV built-in functons 
 This notebook implements exposure fusion, which was introduced by Merten et al. This implementation was done based on openCV's instruction, which is well guided. 
 
 There are serveral steps in the Merten's paper, but they are just embedded in the openCV functions. So I will go over each step in the following post. 
