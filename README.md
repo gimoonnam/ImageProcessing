@@ -15,10 +15,8 @@
 ## 1. Multiresolution blending using OpenCV in Python 
 
 This notebook implements exposure fusion, which was introduced by Merten et al. 
-
 This picture shows the result of my implemention on exposure fusion. 
-
-For details, pleaes check **mergeMertens_fromScratches.ipynb**
+For details, please check **mergeMertens_fromScratches.ipynb**
 
 <img src ="images/mergeMertens.png" width="600">
 
