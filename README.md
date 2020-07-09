@@ -23,4 +23,4 @@ For details, please check **mergeMertens_fromScratches.ipynb**
 
 ## 2. High Dynamic Range radiance image fusion 
 
-<img src ="images/saintLouisTower.png" width="600">
+<img src ="images/saintLouis_tower.png" width="600">
