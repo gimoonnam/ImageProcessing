@@ -17,4 +17,4 @@ This picture shows the result of my implemention on exposure fusion.
 
 For details, pleaes check **mergeMertens_fromScratches.ipynb**
 
-![alt text](/assets/images/house.png)
+![alt text](images/mergeMertens.png)
