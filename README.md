@@ -10,7 +10,10 @@
       - Laplacian Pyramid
 
 
-# mergeMertens in python with openCV 
+# Exposure fusion 
+
+## 1. Multiresolution blending using OpenCV in Python 
+
 This notebook implements exposure fusion, which was introduced by Merten et al. 
 
 This picture shows the result of my implemention on exposure fusion. 
@@ -18,3 +21,8 @@ This picture shows the result of my implemention on exposure fusion.
 For details, pleaes check **mergeMertens_fromScratches.ipynb**
 
 ![alt text](images/mergeMertens.png)
+
+
+## 2. High Dynamic Range radiance image fusion 
+
+Coming soon... 
