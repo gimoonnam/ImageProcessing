@@ -10,7 +10,7 @@
       - Laplacian Pyramid
 
 
-# Exposure fusion 
+# <span style="color:blue"> Exposure fusion  </span> 
 
 ## 1. Multiresolution blending using OpenCV in Python 
 
