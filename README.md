@@ -20,7 +20,7 @@ This picture shows the result of my implemention on exposure fusion.
 
 For details, pleaes check **mergeMertens_fromScratches.ipynb**
 
-![alt text](images/mergeMertens.png)
+![alt text](images/mergeMertens.png | width=200)
 
 
 ## 2. High Dynamic Range radiance image fusion 
