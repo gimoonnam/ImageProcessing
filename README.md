@@ -27,4 +27,4 @@ For details, please check **mergeMertens_fromScratches.ipynb**
 
 
 Tone-mapped image using Drago's method after the four images are merged into a single HDR radiance map 
-<img src ="/assets/images/ldr-Drago-2.jpg" width="600">
+<img src ="https://github.com/gimoonnam/gimoonnam.github.io/blob/master/assets/images/ldr-Drago-2.jpg" width="600">
