@@ -23,4 +23,8 @@ For details, please check **mergeMertens_fromScratches.ipynb**
 
 ## 2. High Dynamic Range radiance image fusion 
 
-<img src ="images/saintLouis_tower.png" width="600">
+<img src ="images/saintLouis_tower.png" width="900">
+
+
+Tone-mapped image using Drago's method after the four images are merged into a single HDR radiance map 
+<img src ="https://github.com/gimoonnam/gimoonnam.github.io/blob/master/assets/images/ldr-Drago-2.jpg" width="600">
